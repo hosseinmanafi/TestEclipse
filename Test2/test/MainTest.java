@@ -17,6 +17,7 @@ class MainTest {
 	void test() throws Exception {
 		
 		assertEquals("Hello", this.testable.run());
+		// Hello
 //		fail("Not yet implemented");
 	}
 
